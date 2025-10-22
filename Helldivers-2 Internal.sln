@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7BB6F051-4BC6-4EE5-986A-581028782B2C}") = "Helldivers2", "Helldivers-2 Internal\Helldivers2.vcxproj", "{AB446EEA-193D-4AC9-A271-410DF1CBBB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB446EEA-193D-4AC9-A271-410DF1CBBB82}.Debug|x64.ActiveCfg = Debug|x64
+		{AB446EEA-193D-4AC9-A271-410DF1CBBB82}.Debug|x64.Build.0 = Debug|x64
+		{AB446EEA-193D-4AC9-A271-410DF1CBBB82}.Release|x64.ActiveCfg = Release|x64
+		{AB446EEA-193D-4AC9-A271-410DF1CBBB82}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {045DF369-7A76-4053-AD43-F779AB22C8AA}
+	EndGlobalSection
+EndGlobal
